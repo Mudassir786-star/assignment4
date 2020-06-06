@@ -1,0 +1,52 @@
+h1{
+    background-color: antiquewhite !important;
+    font-style: italic;
+    font-size: 6em;
+    
+}
+body{
+    background-color: peru;
+}
+h2{
+    color: cornsilk;
+    font-size: 4em;
+    margin: 20px;
+    font-style: italic;
+}
+figure{
+    color: peru;
+    font-style: oblique;
+    font-size: 1.7em;
+}
+.man{
+    margin: 70px;
+ 
+}
+.woman{
+    margin: 70px;
+
+}
+.child1{
+    margin: 85px;
+
+} 
+.child2{
+    margin: 70px;
+    
+}
+.other{
+    margin: 70px;
+    
+}
+.apple{
+    background-color: black;
+     
+}
+.four{
+    
+    margin: 50px 30px 100px 50px;
+    font-family: sans-serif;
+    display: inline-block;
+    color: white;
+}
+

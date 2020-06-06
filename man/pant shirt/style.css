@@ -1,0 +1,12 @@
+body{
+    background-color: peru !important;
+
+}
+h1{
+    font-style: italic;
+    font-size: 5em;
+}
+a{
+    font-size: 2em;
+    font-style: italic;
+}
